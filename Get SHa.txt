@@ -2,7 +2,7 @@ C:\Users\MOON\.android
 For windows:
 keytool -list -v -keystore C:\Users\MOON\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
 
-46:F1:8E:58:41:4A:BC:4F:D3:3E:31:48:AA:C5:81:C3:52:87:DD:21:F0:74:FB:BE:67:7B:BD:91:9B:90:94:49
+
 
  -list -alias androiddebugkey -keystore "C:\Users\MOON\.android\debug.keystore" -storepass android -keypass android
 androiddebugkey
